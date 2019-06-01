@@ -1,14 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.6)  1 JUN 2019 16:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.18)  1 JUN 2019 19:23
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
-**"Relatório 10 - Liberdade de Expressão na Internet.tex"
-(./Relatório 10 - Liberdade de Expressão na Internet.tex
+**"./Relatório 10 - Liberdade de Expressão na Internet.tex"
+("Relatório 10 - Liberdade de Expressão na Internet.tex"
 LaTeX2e <2017-04-15>
-Babel <3.18> and hyphenation patterns for 5 language(s) loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -23,19 +21,19 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
 File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
 File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -276,7 +274,7 @@ File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
 File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -317,7 +315,7 @@ File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
 File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -341,53 +339,27 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2018/02/14 3.18 The Babel package
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2017/05/19 3.10 The Babel package
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2018/02/14 3.18 Babel switching mechanism
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
 )
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-portuges\portuges.ldf"
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
 
-! Package babel Error: Unknown option `portuguese'. Either you misspelled it
-(babel)                or the language definition file portuguese.ldf was not f
-ound.
-
-See the babel package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.445 \ProcessOptions*
-                      
-Valid options are: shorthands=, KeepShorthandsActive,
-activeacute, activegrave, noconfigs, safe=, main=, math=
-headfoot=, strings=, config=, hyphenmap=, or a language name.
-
-
-! Package babel Error: You haven't specified a language option.
-
-See the babel package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.478 ...ry to proceed from here, type x to quit.}
-                                                  
-You need to specify a language, either as a global option
-or as an optional argument to the \usepackage command;
-You shouldn't try to proceed from here, type x to quit.
-
-) (./Relatório 10 - Liberdade de Expressão na Internet.aux
-
-! Package babel Error: You haven't defined the language portuguese yet.
-
-See the babel package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3 \select@language{portuguese}
-                                
-Your command will be ignored, type <return> to proceed
-
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2017/05/19 3.10 Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
 )
+Package babel Info: Making " an active character on input line 145.
+))
+("Relatório 10 - Liberdade de Expressão na Internet.aux")
 \openout1 = `"Relatório 10 - Liberdade de Expressão na Internet.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -408,24 +380,45 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 11.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-(./Relatório 10 - Liberdade de Expressão na Internet.aux) ) 
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Overfull \hbox (7.79865pt too wide) in paragraph at lines 56--57
+ [] \OT1/cmr/m/n/12 Ci-tando os princpios (em ingl^es para evi-tar perda de s
+ig-ni-fi-cado na traduc~ao: 
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 110--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--117
+
+ []
+
+[3]
+Overfull \hbox (21.50684pt too wide) in paragraph at lines 118--123
+\OT1/cmr/m/n/12 https://wilmap.law.stanford.edu/entries/manila-principles-inter
+mediary-liability 
+ []
+
+[4] ("Relatório 10 - Liberdade de Expressão na Internet.aux") ) 
 Here is how much of TeX's memory you used:
- 648 strings out of 494880
- 6868 string characters out of 6179602
- 58104 words of memory out of 5000000
- 4027 multiletter control sequences out of 15000+600000
- 5457 words of font info for 20 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
- 23i,6n,19p,184b,199s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on "Relatório 10 - Liberdade de Expressão na Internet.pdf" (2 
-pages, 34921 bytes).
+ 1017 strings out of 493323
+ 11503 string characters out of 3139059
+ 75018 words of memory out of 3000000
+ 4605 multiletter control sequences out of 15000+200000
+ 5804 words of font info for 21 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 23i,6n,23p,221b,199s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on "Relatório 10 - Liberdade de Expressão na Internet.pdf" (4 
+pages, 51908 bytes).
 PDF statistics:
- 19 PDF objects out of 1000 (max. 8388607)
- 12 compressed objects within 1 object stream
+ 27 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
