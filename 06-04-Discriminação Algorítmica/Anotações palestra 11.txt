@@ -1,0 +1,44 @@
+Anotações palestra 11 - Discriminação Algorítmica
+
+Inicio iterativo da palestra:
+
+O que é um algoritmo?
+	Conjunto de operações ordenadas para a resolução de um determinado 
+	problema.
+
+Algoritmos computacionais: 
+	São bem definidos.
+
+Segunda palavra do tema: DISCRIMINAÇÃO
+
+O que é discriminação?
+	Segregação de algo ou alguém considerando determinada característica.
+
+Discriminação algorítmica:
+	Exemplo com crédit scoring
+
+Recomendação de livro Cathy O'Neal "Weapons of Math Destruction"
+
+Como aplicar algoritmos para decisões jurídicas?
+	Definição de parâmetros para criação de algorítmos
+	Generalização para facilitar decisões
+	Generalizações estatisticamente corretas e não corretas -> Fredrick Schauer
+
+	Generalizações estatisticamente corretas:
+		Universal -> "todos os seres humanos são mortais"
+		Maioria -> "todo passaro voa"
+		Comparativa -> "todos os bulldogs tem problema nos quadris"
+		(Em comparação com outros cachorros os bulldogs tem mais problemas
+		nos quadris)
+	Quando podemos usar generalização por maioria ou comparativa?
+		Após analisar o conteúdo da generalização e seu impacto no mundo real.
+
+	Tratamento discriminnatório não pode ser utilizado para fins ilícitos ou
+	abusivos. 
+	Ilícitos -> escrito em lei que não pode ser feito
+	Abusivos -> Não existe regra expressa impedindo o uso da generalização,
+	porém o resultado sobre isso fere algum valor da sociedade.
+
+	Discussão sobre como minimizar os problemas de discriminação algorítmica:
+		Estarmos ciente de que isso existe
+		Juntarmos aspectos jurídicos com os aspectos tecnicos
