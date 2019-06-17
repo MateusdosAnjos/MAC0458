@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.18)  17 JUN 2019 11:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.18)  17 JUN 2019 20:22
 entering extended mode
 **"./Relatório 12 - Dilemas éticos em SE e IA.tex"
 ("Relatório 12 - Dilemas éticos em SE e IA.tex"
@@ -381,28 +381,29 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Overfull \hbox (0.85657pt too wide) in paragraph at lines 58--69
+Overfull \hbox (0.85657pt too wide) in paragraph at lines 58--64
  [] \OT1/cmr/m/n/12 Quando con-si-de-ra-mos os \OT1/cmr/bx/n/12 Vcios Di-gi-t
 ais\OT1/cmr/m/n/12 , tema muito abor-dado por Adam
  []
 
-[2] [3] ("Relatório 12 - Dilemas éticos em SE e IA.aux") ) 
+[2] [3] [4] ("Relatório 12 - Dilemas éticos em SE e IA.aux") ) 
 Here is how much of TeX's memory you used:
- 1015 strings out of 493323
- 11400 string characters out of 3139059
+ 1020 strings out of 493323
+ 11469 string characters out of 3139059
  75018 words of memory out of 3000000
- 4604 multiletter control sequences out of 15000+200000
- 5457 words of font info for 20 fonts, out of 3000000 for 9000
+ 4608 multiletter control sequences out of 15000+200000
+ 5804 words of font info for 21 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  23i,6n,23p,212b,199s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmr17.pfb>
-Output written on "Relatório 12 - Dilemas éticos em SE e IA.pdf" (3 pages, 49
-318 bytes).
+<C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmti12.pfb>
+Output written on "Relatório 12 - Dilemas éticos em SE e IA.pdf" (4 pages, 60
+479 bytes).
 PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
+ 31 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
