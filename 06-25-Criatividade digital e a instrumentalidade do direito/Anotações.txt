@@ -1,0 +1,81 @@
+Anotações Palestra 14: Criatividade digital e a instrumentalidade do direito
+
+Noções básicas de como a base do direto funciona
+
+O que a criatividade digital produz:
+	criptomoeda
+	disrupção no mercado financeira
+
+Juridicização (termo importante)
+
+Brasil -> Tradição romana -> Jurid. mal ou não juridic. num primeiro momento
+EUA -> Tradição romana exterior -> diante de un fato novo o primeiro passo é
+como juridc.
+
+Por exemplo problema no Brasil, SEC XVIII, direito de patente
+
+Inovações na Inglaterra muito devido a forma de se juridicizar 	
+
+Propriedade Intelec + direito autoral = Lei de proteção de software
+Brasil tentando administrar essa legislação
+
+Mergulho teórico na Instrumentalidade do direito:
+	Direito é só distinção, fenômeno da língua. Direito significa como a
+	coletividade faz a distinção, baseando-se nos termos que a coletividade
+	decidir.
+
+	FIXAR: Direito é produto da língua.
+	Língua é uma forma de organização de um povo.
+
+Formas de legislar: de forma punitiva ou premiando
+Faça SE NÃO Acontece algo diferente de Faça QUE você ganha algo
+
+Legislação para controlar comportamentos: Se você quer que aconteca ou não quer
+que não aconteça:
+diferença entre omissão de socorro -> a ideia é que você socorra
+matar uma pessoa -> a ideia é que voce NÂO MATE	
+
+Diferentes elementos dos fatos ocorridos:
+
+- Elemento espacial: Algo sempre acontece em algum lugar
+
+- Elemento temporal: Algo acontece quando algo acontece
+
+- Elemento materialidade: Operação de "compra e venda" (exemplo da mercadoria
+na enchente)
+
+- Elemento pessoalidade: deslocamento do imposto para outro (exemplo do seguro
+de carro)
+
+- Elemento quantitativo: Criar relação entre consequencia e causa (código de
+hamurabi)
+
+Caso de Mariano da Silva preso e vida acabada por "engano" gerou documentario
+
+5 pilares são necessários para que se tome alguma providência.
+
+A boa distinção faz com que haja proteção por leis.
+
+Exemplo com Facebook: forma de adesão
+
+Exemplo com propriedade das fotos e descontinuidade de uma plataforma:
+Upload de foto passa a ser de propriedade do "face" para evitar o pagamento
+de indenização caso descontinue a plataforma. Porém "face" passou a vender
+essas informações, afinal eles detinham os direitos sob elas. PROBLEMA.
+Inicio da discussão acerca do tema: Proteção de dados pessoais
+
+Se pseudonimizar(dados que não possibilitam a identificação do indivíduo):
+Empresa pode ter propriedade sob os dados para gerar inteligência
+
+Importancia de se distinguir as coisas vem de quem vive no ambiente de uso do
+caso que está querendo se distinguir
+
+Em software: compra e venda é diferente de locação, estou vendendo o fonte do
+software ou apenas permitindo o uso? (uso: Netflix)
+
+Porém compra e venda e aluguel não da conta de todos os casos. Exemplo com
+funk estralando no shopping iguatemi e exemplo de aluguel de fazenda.
+
+Tais mudanças foram feitas a partir dos proprietários perceberem que essa
+distinção deveria ser feita.
+ 
